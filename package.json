@@ -1,0 +1,17 @@
+{
+  "name": "custom-redux",
+  "version": "1.0.0",
+  "description": "Custom implementation of the popular state management library Redux",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js"
+  },
+  "keywords": [],
+  "author": "Sakib Abrar",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "4.41.6",
+    "webpack-cli": "3.3.11",
+    "webpack-dev-server": "3.10.3"
+  }
+}
